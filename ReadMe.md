@@ -37,8 +37,8 @@ Implement and test the following methods:
 
 * `Car#start` should change the state of the car to `on`.
 * `Car#off` should change the state to `off`.
-* `Car#driveTo`, it should `console.log` `"driving to <destination>"`, but only if the car `state` is `on`.
-* `Car#park` only if the car is `off`.
+* `Car#driveTo`, it should `console.log` `"driving to <destination>"`, but only if the car `state` is `on`. *Note: this method needs to take a `destination` param.*
+* `Car#park` only if the car is `off` and if it's off console.log `parked!!`.
 
 
 ## Phase III 
