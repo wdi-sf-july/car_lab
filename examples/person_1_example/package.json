@@ -1,0 +1,18 @@
+{
+  "name": "person_example",
+  "version": "0.0.0",
+  "description": "an example for testing and writing a person object",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
